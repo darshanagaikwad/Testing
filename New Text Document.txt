@@ -1,4 +1,17 @@
-Updated file Testing asddffg   Data Updated at 17:01
+Git Steps
+
+1. git config --global user.name "Sam Smith"
+2.git config --global user.email sam@example.com
+3.git init
+4.git add *
+5.git commit -m "msg"
+6.git remote add origin https://github.com/nikitalahane/GitRepository.git
+7.git push origin master
+
+
+to pull changes 
+1. git pull  origin master
+
 
 
 
