@@ -29,6 +29,9 @@ commit:git commit -m "message"
 Push data to branch:git push origin develop(branch name)
 
 
+modified by darshana
+
+
 
 
 
