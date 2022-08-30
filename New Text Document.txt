@@ -12,7 +12,9 @@ Git Steps
 to pull changes 
 1. git pull  origin master
 
-*Branching
+git checkout -b SubBranchName
+
+
 
 
 
