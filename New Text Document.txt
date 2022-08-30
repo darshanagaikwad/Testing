@@ -15,12 +15,16 @@ to pull changes
 
 
 
+For Branch Creation cmd:
+git checkout -b branch
+
+View All branch cmd:git branch idicates the current branch using *
 
 
+Adding Chnages:git add *
+commit:git commit -m "message"
 
-
-
-
+Push data to branch:git push origin develop(branch name)
 
 
 
