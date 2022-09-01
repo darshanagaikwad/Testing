@@ -28,6 +28,9 @@ commit:git commit -m "message"
 
 Push data to branch:git push origin develop(branch name)
 
+git checkout masterbranch
+git merge subbranch
+git push origin masterbranch
 
 modified by darshana
 
